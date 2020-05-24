@@ -27,4 +27,11 @@ The following roles are assumed by various people during the entire process of S
 
 ## Tracking: 
 
-The entire process can be tracked via our website or on a mail thread.
+The entire process can be tracked on our website or on a mail thread.
+
+
+## Targets:
+
+- ~~Add Details~~
+- Add latest template
+- Add sample docs
