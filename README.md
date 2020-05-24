@@ -1,7 +1,6 @@
-# pro_build_strategy_documentation_templates
+# Strategy Documentation Templates for Pro Build Customers.
 
-Strategy Documentation Templates for Pro Build Customers.
-
+-----
 
 ## About Pro Build:
 Pro Build is AlgoBulls's premium Build product where professional services are offered to people looking to convert their trading strategies into algo form. 
