@@ -1,4 +1,4 @@
-# Strategy Documentation Templates for Pro Build Customers.
+# 'AlgoBulls Pro Build' Strategy Documentation Templates
 
 -----
 
