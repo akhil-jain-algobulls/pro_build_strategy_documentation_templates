@@ -1,6 +1,5 @@
-# 'AlgoBulls Pro Build' Strategy Documentation Templates
+# AlgoBulls *Pro Build* Strategy Documentation Templates
 
------
 
 ## About Pro Build
 Pro Build is AlgoBulls's premium Build product where professional services are offered to people looking to convert their trading strategies into algo form. 
