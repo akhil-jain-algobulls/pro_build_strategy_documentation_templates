@@ -2,15 +2,16 @@
 
 -----
 
-## About Pro Build:
+## About Pro Build
 Pro Build is AlgoBulls's premium Build product where professional services are offered to people looking to convert their trading strategies into algo form. 
-- We help deploy the strategies on our algorithmic trading platform
+- We help code & deploy the strategies on our algorithmic trading platform
 - We help map the same strategy to multiple clients under them, without revealing confidential strategy details (Fund Managers).
 
+Click [here](https://algobulls.com/build/#pro-build) to know more & request a quote.
 
 
-## Roles: 
 
+## Roles
 The following roles are assumed by various people during the entire process of Strategy Development.
 
 
@@ -25,13 +26,11 @@ The following roles are assumed by various people during the entire process of S
 - **Strategy Tester**: AlgoBulls Member testing the strategy after it has been coded by the *Strategy Developer*.
 
 
-## Tracking: 
-
+## Tracking
 The entire process can be tracked on our website or on a mail thread.
 
 
-## Targets:
-
+## Targets
 - ~~Add Details~~
 - Add latest template
 - Add sample docs
